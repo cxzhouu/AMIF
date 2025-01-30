@@ -1,1 +1,2 @@
-# AMIF-for-medical-image-fusion
+# AMIF
+In this paper, we present a novel model for medical image fusion, AMIF. This architecture is designed to effectively capture and integrate both global and local features from various imaging modalities, thereby enhancing feature representation. Experimental results demonstrate that AMIF surpasses existing methods, delivering superior image quality, improved diagnostic accuracy, and enhanced structural integrity with finer detail preservation.
